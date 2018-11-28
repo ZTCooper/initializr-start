@@ -1,2 +1,0 @@
-gradle build
-java -jar initializr-start-0.0.1-SNAPSHOT.jar
